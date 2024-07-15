@@ -1,9 +1,5 @@
 /*
 Author: Ibrahim Moftah
-Course: CSCI-135
-Instructor: Genady Maryash
-Assignment: Project 3A
-
 */
 
 #include "profemon.hpp"
